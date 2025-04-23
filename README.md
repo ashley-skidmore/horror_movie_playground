@@ -1,4 +1,4 @@
-# horror_movie_playground# 🎥🍿 Exploratory Data Analysis Using Horror Movie Data 👻💀
+🎥🍿 Exploratory Data Analysis Using Horror Movie Data 👻💀
 
 - Jupyter Notebook Extension for VS Code
 - Python 3.13.3
