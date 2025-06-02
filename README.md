@@ -1,4 +1,4 @@
-# 🎥🍿 Exploratory Data Analysis Using Horror Movie Data 👻💀
+# 🎥🍿 Data Wrangling Using Horror Movie Data 👻💀
 
 - Jupyter Notebook Extension for VS Code
 - Python 3.13.3
